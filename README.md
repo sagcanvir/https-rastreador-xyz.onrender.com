@@ -1,4 +1,4 @@
-# https-rastreador-xyz.onrender.com
+$# https-rastreador-xyz.onrender.com
 index.js
 // Acceso directo para ver quién ha caído en la trampa
 app.get('/ver-resultados', (req, res) => {
